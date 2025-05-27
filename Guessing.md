@@ -61,3 +61,19 @@ flowchart TD
     style n6 color:#000000
 
 ```
+
+## Flowchart Steps
+1. The Game Starts  
+2. Declare: Computer random number  
+3. Declare: Player guesses a number     
+4. Assign: mystery number to random number between 1 and 12  
+5. Output: prompt player to guess a number between 1 and 11  
+6. Input: player guesses a number   
+7. While player number doesn't equal mystery number, prompt them to enter loop and guess again
+8. If number player guesses a number lower than, computer will output : "too low"
+9. If number player guesses is higher than, computer will output: "too high" 
+10. If they guess correctly, computer will output that they got it correct and the game ends  
+
+
+
+
