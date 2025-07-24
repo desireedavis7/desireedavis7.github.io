@@ -1,6 +1,6 @@
 
 const gradeData = fetchGradeData();
-
+populateGradebook(gradeData);
 
 
 function fetchGradeData() {
